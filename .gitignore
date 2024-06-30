@@ -1,3 +1,5 @@
 data/
 *.ipynb
 .venv
+.vscode
+sftp.json
