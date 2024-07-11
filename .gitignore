@@ -3,3 +3,6 @@ data/
 .venv
 .vscode
 sftp.json
+*.yaml
+*.csv
+wandb

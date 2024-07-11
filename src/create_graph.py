@@ -6,6 +6,7 @@ import json
 from tqdm import tqdm
 
 RI_NI_sim_ls = [0.9,0.75,0.6,0.5,0.3,0.1]
+RI_NI_sim_ls = [0.75,0.75,0.75,0.75,0.75,0.75]
 NI_C_sim = 0.75
 
 Graph_root_dir = Path("../data/custom_graphs")
